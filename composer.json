@@ -1,0 +1,12 @@
+{
+    "name": "mark_pasko/aviakassa-test-app",
+    "type": "project",
+    "license": "proprietary",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Service\\" : "src/Service"
+        }
+    }
+}
